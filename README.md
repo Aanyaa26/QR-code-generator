@@ -80,12 +80,6 @@ QR-Code-Generator/
 
 ---
 
-## Screenshots
-
-*(Add screenshots showing the main page, QR code generation process, and any additional features)*
-
----
-
 ## References
 
 - [QRCode.js Documentation](https://davidshimjs.github.io/qrcodejs/)
